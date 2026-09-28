@@ -1,5 +1,5 @@
 environment: production
-image_tag: lab-app:production-build
+image_tag: v2.3.0
 secrets:
   API_KEY: ${API_KEY}
   DATABASE_PASSWORD: ${DATABASE_PASSWORD}
